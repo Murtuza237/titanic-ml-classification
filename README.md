@@ -11,6 +11,7 @@ The project demonstrates data preprocessing, feature engineering, model training
 ## 📊 Dataset
 
 - Source: Kaggle – Titanic: Machine Learning from Disaster
+- Data Set Link: " https://www.kaggle.com/datasets/amineipad/titanic-dataset?select=test.csv "
 - Training Records: 891
 - Features: 12 original attributes
 - Target Variable: Survived (0 = No, 1 = Yes)
